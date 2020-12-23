@@ -24,3 +24,17 @@
 
 * After adding all the information, user can view his/her performance till current semester and view insights about the same.
 
+---------
+
+```javascript
+
+if (youEnjoyed) {
+    starThisRepository();
+}
+
+```
+
+-----------
+
+## Thank You
+- Author : [Nevil Parmar](https://nevilparmar.me)
